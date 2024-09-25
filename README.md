@@ -2,7 +2,7 @@
 
 👩🏻‍💻 **Habilidades e Tecnologias**:
 
-- **Área de afinidade**: Front-end e UX**
+- **Área de afinidade**: Front-end e UX.
 
 📂 **Projetos e Contribuições**:
 
