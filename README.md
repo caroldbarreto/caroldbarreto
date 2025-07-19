@@ -6,8 +6,9 @@
 
 📂 **Projetos e Contribuições**:
 
-- **Projetos**: Projeto DB e Projeto Websiste Geek Trends.
-- **Contribuições**: Estagiária no programa Observatório do Amannhã do Armazém da Criatividade.
+- **Projetos**: SmartPool.
+
+- **Contribuições**: Estágio no programa Observatório do Amannhã do Armazém da Criatividade.
   
 📫 **Contato**:
 
