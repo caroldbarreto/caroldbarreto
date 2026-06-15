@@ -1,16 +1,10 @@
-👩🏻 Olá, me chamo Carolina Dias. Estudante de Análise e Desenvolvimento de Sistemas e apaixonada pela tecnologia.
+🎨 UX & UI Designer | Product Manager 
 
-👩🏻‍💻 **Habilidades e Tecnologias**:
+✨ Criando experiências digitais intuitivas e acessíveis.
 
-- **Área de afinidade**: Front-end e UX.
+👥 Design centrado no usuário |♿ Acessibilidade |🌿 Sustentabilidade |🚀 Inovação
 
-📂 **Projetos e Contribuições**:
+🦋 CEO: Brisa Labs
 
-- **Projetos**: SmartPool.
 
-- **Contribuições**: Estágio no programa Observatório do Amannhã do Armazém da Criatividade.
-  
-📫 **Contato**:
-
-- **Entre em contato**: carolina.dias2026@gmail.com
 
